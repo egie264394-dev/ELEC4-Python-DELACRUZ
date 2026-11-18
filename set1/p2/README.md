@@ -32,6 +32,8 @@ python p2_main.py
 
 ## Testing
 
+### Test 1 – Passed Condition
+
 The program was tested using three sample grades:
 
 - Grade 1: 85
@@ -44,6 +46,23 @@ The program was tested using three sample grades:
 - Status: PASSED
 - Highest Grade: 95.0
 - Lowest Grade: 80.0
+
+### Test 2 – Failed Condition
+
+The program was also tested using the following sample grades:
+
+- Grade 1: 60
+- Grade 2: 70
+- Grade 3: 74
+
+**Actual Results:**
+
+- Average Grade: 68.00
+- Status: FAILED
+- Highest Grade: 74.0
+- Lowest Grade: 60.0
+
+**Result:** The program correctly identified the student as FAILED because the average grade was below 75.
 
 ## Screenshot
 
