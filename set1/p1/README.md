@@ -33,3 +33,12 @@ python p1_grade_calculator.py
 
 **Author:** EGIE BOY P. DELA CRUZ  
 **Section:** IV-BSIT A
+## Testing
+
+The program was tested using three sample grades: 85, 95, and 80.
+
+Expected results:
+- Average Grade: 86.67
+- Highest Grade: 95.0
+- Lowest Grade: 80.0
+- Status: PASSED
