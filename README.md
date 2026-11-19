@@ -1,4 +1,4 @@
-# ELEC 4 - Python Programming
+﻿# ELEC 4 - Python Programming
 
 **Name:** EGIE BOY P. DELA CRUZ
 
@@ -12,30 +12,40 @@
 
 | Activity | Description | Folder |
 |---|---|---|
-| P1 - Grade Calculator | Calculates average, highest grade, lowest grade, and pass/fail status. | [P1 Folder](set1/p1/) |
-| P2 - Student Grade Report | Uses a custom Python module to calculate and display student grades. | [P2 Folder](set1/p2/) |
-| P3 - Student Record Manager | Uses lists and sets to manage student records. | [P3 Folder](set1/p3/) |
-| P4 - Exception Handling | Demonstrates try, except, else, and finally. | [P4 Folder](set1/p4/) |
+| P1 - Grade Calculator | A menu-driven program that accepts grades and calculates the average, highest grade, lowest grade, and pass/fail status. | [P1 Folder](set1/p1/) |
+| P2 - Student Grade Report | A program that uses a custom Python module to calculate and display student grade results. | [P2 Folder](set1/p2/) |
+| P3 - Student Record Manager | A program that uses lists and sets to add, search, remove, and display student records. | [P3 Folder](set1/p3/) |
+| P4 - Exception Handling | A program that demonstrates exception handling using try, except, else, and finally. | [P4 Folder](set1/p4/) |
 
 ---
 
 ## How to Run the Activities
 
+Run each command from the repository root directory.
+
 ### P1 - Grade Calculator
 
-    python set1/p1/p1_grade_calculator.py
+```bash
+python set1/p1/p1_grade_calculator.py
+```
 
 ### P2 - Student Grade Report
 
-    python set1/p2/p2_main.py
+```bash
+python set1/p2/p2_main.py
+```
 
 ### P3 - Student Record Manager
 
-    python set1/p3/p3_record_manager.py
+```bash
+python set1/p3/p3_record_manager.py
+```
 
 ### P4 - Exception Handling
 
-    python set1/p4/p4_exceptions.py
+```bash
+python set1/p4/p4_exceptions.py
+```
 
 ---
 
