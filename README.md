@@ -1,10 +1,8 @@
-﻿
+
 # ELEC 4 - Python Programming
 
-**Name:** EGIE BOY P. DELA CRUZ
-
-**Section:** IV-BSIT A
-
+**Name:** EGIE BOY P. DELA CRUZ  
+**Section:** IV-BSIT A  
 **Course:** ELEC 4 - Python Programming
 
 ---
@@ -66,17 +64,12 @@ python set1/p4/p4_exceptions.py
 
 ### P4 - Exception Handling
 
-
 ![P4 Successful Division Output](set1/p4/screenshots/successful-division.png)
 
 ---
 
 ## Author
 
-**EGIE BOY P. DELA CRUZ**
-
-**Section:** IV-BSIT A
-
+**EGIE BOY P. DELA CRUZ**  
+**Section:** IV-BSIT A  
 **Course:** ELEC 4 - Python Programming
-
-
